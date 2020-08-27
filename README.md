@@ -1,4 +1,4 @@
-# studlife_admin
+# Student Life Admin
 
 Admin helper application
 
